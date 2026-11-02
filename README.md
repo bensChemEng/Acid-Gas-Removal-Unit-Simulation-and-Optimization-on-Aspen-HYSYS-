@@ -26,6 +26,6 @@ Meet the 2 mol% CO₂ sales gas specification at the Rhourde Nouss Central Proce
 | CO₂ in sweet gas | 3.7 mol% | 1.97 mol% | < 2 mol% |
 
 ## Notes
-Inputs are sanitized or normalized; no confidential plant or vendor data is included.
+Inputs are sanitized; no confidential plant or vendor data is included.
 
 *This repository is only a preview of some results developed under HYSYS® (No Simulation file is attached)*
