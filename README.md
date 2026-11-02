@@ -9,6 +9,8 @@ Meet the 2 mol% CO₂ sales gas specification at the Rhourde Nouss Central Proce
 ## Flowsheet
 <p align="center">
   <img src="Images/acid-gas-removal-optimized-flowsheet.PNG" alt="Rhourde-Nouss's Natural Gas Central Processing Facility Acid Gas Removal Unit" width="1200">
+  <br>
+  <em>Figure 1: Rhourde-Nouss's Solved and Optimized Acid Gas Removal Unit Flowsheet.</em>
 </p>
 
 ## Approach
