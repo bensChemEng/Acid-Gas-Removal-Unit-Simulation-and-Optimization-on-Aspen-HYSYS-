@@ -7,5 +7,5 @@ A complete HYSYS®-based numerical model was developed for the Acid Gas Removal 
 
 ## Flowsheet
 <p align="center">
-  <img src="Images/acid-gas-removal-optimized-flowsheet.PNG" alt="Rhourde-Nouss's Natural Gas Central Processing Facility Acid Gas Removal Unit" width="600">
+  <img src="Images/acid-gas-removal-optimized-flowsheet.PNG" alt="Rhourde-Nouss's Natural Gas Central Processing Facility Acid Gas Removal Unit" width="1200">
 </p>
