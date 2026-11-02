@@ -20,6 +20,12 @@ Meet the 2 mol% CO₂ sales gas specification at the Rhourde Nouss Central Proce
 - Used phase envelope and hydrate analysis to define safe lean amine and feed gas temperature limits.
 - Checked condensation and hydrate margins for the selected operating conditions.
 
+<p align="center">
+  <img src="Images/envelope_stream_analyis.png" alt="Envelope and Hydrates analysis for 2305 Stream (Coming from Compressors Boosters unit)" width="900">
+  <br>
+  <em>Figure 2: Envelope and Hydrates analysis for 2305 Stream (Coming from Compressors Boosters unit).</em>
+</p>
+
 ## Key Result
 | Parameter | Base case | Optimized | Specification |
 |---|---|---|---|
