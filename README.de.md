@@ -1,18 +1,18 @@
 [English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
 
-# Simulation und Optimierung der Sauergasentfernungsanlage (aminbasierte CO₂-Entfernungsanlage, Einheit 28) in einer Erdgasaufbereitungsanlage mit Aspen HYSYS® (Rhourde-Nouss, Südosten Algeriens)
+# Simulation und Optimierung der aminbasierten CO₂-Abtrennungsanlage (AGRU, Einheit 28) in einer Erdgasaufbereitungsanlage mit Aspen HYSYS® (Rhourde-Nouss, Südosten Algeriens)
 
 ## Übersicht
-Anhand des anlagenspezifischen Datenblatts wurde ein vollständiges HYSYS®-basiertes numerisches Modell der Sauergasentfernungsanlage (AGRU) von Rhourde-Nouss (Südosten Algeriens) entwickelt, die Teil einer zentralen Aufbereitungsanlage (Central Processing Facility) für die Erdgasbehandlung ist.
+Anhand des anlagenspezifischen Datenblatts wurde ein vollständiges HYSYS®-basiertes numerisches Modell der CO₂-Abtrennungsanlage (AGRU) von Rhourde-Nouss (Südosten Algeriens) entwickelt, die Teil einer zentralen Aufbereitungsanlage (Central Processing Facility) für die Erdgasbehandlung ist.
 
 ## Zielsetzung
-Einhaltung der Verkaufsgas-Spezifikation von 2 Mol-% CO₂ in der zentralen Aufbereitungsanlage Rhourde Nouss (Südosten Algeriens) durch Optimierung der Temperaturen der armen Aminlösung und des Rohgases in der aminbasierten Sauergasentfernungsanlage (AGRU).
+Einhaltung der Verkaufsgas-Spezifikation von 2 Mol-% CO₂ in der zentralen Aufbereitungsanlage Rhourde Nouss (Südosten Algeriens) durch Optimierung der Temperaturen der armen Aminlösung und des Rohgases in der aminbasierten CO₂-Abtrennungsanlage (AGRU).
 
 ## Fließschema
 <p align="center">
-  <img src="Images/acid-gas-removal-optimized-flowsheet.PNG" alt="Sauergasentfernungsanlage der zentralen Erdgasaufbereitungsanlage in Rhourde-Nouss" width="1200">
+  <img src="Images/acid-gas-removal-optimized-flowsheet.PNG" alt="CO₂-Abtrennungsanlage der zentralen Erdgasaufbereitungsanlage in Rhourde-Nouss" width="1200">
   <br>
-  <em>Abbildung 1: Gelöstes und optimiertes Fließschema der Sauergasentfernungsanlage in Rhourde-Nouss.</em>
+  <em>Abbildung 1: Gelöstes und optimiertes Fließschema der CO₂-Abtrennungsanlage in Rhourde-Nouss.</em>
 </p>
 
 ## Vorgehensweise
