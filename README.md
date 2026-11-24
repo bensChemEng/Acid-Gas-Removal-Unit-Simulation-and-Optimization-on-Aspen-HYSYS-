@@ -1,3 +1,5 @@
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+
 # Acid Gas Removal Unit (Amine-Based CO₂ Removal Unit (Unit 28)) Simulation and Optimization in a Natural Gas Processing Facility on Aspen HYSYS® (Rhourde-Nouss, Southeastern of Algeria)
 
 ## Overview
